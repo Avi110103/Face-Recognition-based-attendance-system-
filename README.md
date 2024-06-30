@@ -16,9 +16,9 @@ This Project Recognize the Added face in the database and make attendance and st
 
 ## 🔥Result
 
-<img src="/Face-Recognition-based-attendance-system-/images/Result1.png"/>
-<img src="/Face-Recognition-based-attendance-system/images/Result2.png"/>
-<img src="/Face-Recognition-based-attendance-system/images/Result3.png"/>
+<img src="/Face-Recognition-based-Attendance-System/images/Result1.png"/>
+<img src="/Face-Recognition-based-Attendance-System/images/Result2.png"/>
+<img src="/Face-Recognition-based-Attendance-System/images/Result3.png"/>
 
 ## Contributing
 
