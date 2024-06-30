@@ -16,8 +16,9 @@ This Project Recognize the Added face in the database and make attendance and st
 
 ## 🔥Result
 
-<img src="/Fake_News_Detection_System/images/Result.png"/>
-<img src="/Fake_News_Detection_System/images/Result2.png"/>
+<img src="/Face-Recognition-based-attendance-system-/images/Result1.png"/>
+<img src="/Face-Recognition-based-attendance-system/images/Result2.png"/>
+<img src="/Face-Recognition-based-attendance-system/images/Result3.png"/>
 
 ## Contributing
 
