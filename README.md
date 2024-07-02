@@ -4,19 +4,27 @@ This Project Recognize the Added face in the database and make attendance and st
 <h2> :fire: Features</h2>
 
 - Good Accuracy
+- Simple to Understand
+- Attendance can be easily shared
+- Nice User Interface
+  
 ## :bulb: Built Using
 
-- [**Python**](https://www.python.org/)
+- [**Python**](https://www.python.org/) and its libraries
+- M.L Algorithm like KNN
+- HTML,CSS,Bootstrap
 
 ## Instructions to run
 
 1. Git clone this repository
-
 2. ```pip install -r requirements.txt ```  to install all the dependencies
+3. Run ```app.py``` file
+4. Now our application is up and running
+5. Click on ```Add New User``` Button to add details
+6. Now click on ```Take Attendance``` Button to record Attendance
 
 ## 🔥Result
 
-<img src="/Face-Recognition-based-Attendance-System/images/Result1.png"/>
 <img src="/Face-Recognition-based-Attendance-System/images/Result2.png"/>
 <img src="/Face-Recognition-based-Attendance-System/images/Result3.png"/>
 
